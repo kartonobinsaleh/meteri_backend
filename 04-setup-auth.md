@@ -17,7 +17,8 @@ Tujuannya:
 
 `src/validations/authValidation.js`:
 
-<img src="./assets/setup-auth/image-1.png" alt="setup-auth" width="600" height="300" />
+<img src="./assets/setup-auth/image-1.png" alt="setup-auth" width="600" height="450" />
+![alt text](image.png)
 
 ## 2️⃣ Buat Service Authentication (`authService.js`)
 
@@ -101,7 +102,7 @@ Tujuannya:
 ```json
 {
   "status": "fail",
-  "message": "username tidak boleh ada spasi"
+  "message": "username tidak boleh mengandung spasi"
 }
 ```
 
