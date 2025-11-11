@@ -17,13 +17,13 @@ Tujuannya:
 
 `src/validations/authValidation.js`:
 
-<img src="./assets/setup-auth/image-1.png" alt="zod validation" width="600" height="300" />
+<img src="./assets/setup-auth/image-1.png" alt="setup-auth" width="600" height="300" />
 
 ## 2️⃣ Buat Service Authentication (`authService.js`)
 
 `src/services/authService.js`:
 
-<img src="./assets/setup-auth/image-2.png" alt="zod validation" width="600" height="400" />
+<img src="./assets/setup-auth/image-2.png" alt="setup-auth" width="600" height="400" />
 
 > 💡 Catatan: Belum ada hashing password. Fokus di logika insert user dan validasi input.
 
@@ -31,17 +31,17 @@ Tujuannya:
 
 `src/controllers/authController.js`:
 
-<img src="./assets/setup-auth/image-3.png" alt="zod validation" width="600" height="400" />
+<img src="./assets/setup-auth/image-3.png" alt="setup-auth" width="600" height="400" />
 
 ## 4️⃣ Buat Route Authentication (`authRoute.js`)
 
 `src/routes/authRoute.js`:
 
-<img src="./assets/setup-auth/image-4.png" alt="zod validation" width="600" height="300" />
+<img src="./assets/setup-auth/image-4.png" alt="setup-auth" width="600" height="300" />
 
 ## 5️⃣ Update (`server.js`)
 
-<img src="./assets/setup-auth/image-5.png" alt="zod validation" width="600" height="500" />
+<img src="./assets/setup-auth/image-5.png" alt="setup-auth" width="600" height="500" />
 
 ## 6️⃣ Contoh Test Postman
 
