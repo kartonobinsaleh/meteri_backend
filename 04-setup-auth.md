@@ -69,6 +69,7 @@ Tujuannya:
 ```json
 {
   "status": "success",
+  "message": "User registered successfully",
   "data": {
     "id": 7,
     "fullname": "Agung Santoso",
