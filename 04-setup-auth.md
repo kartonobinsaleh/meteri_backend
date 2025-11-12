@@ -18,7 +18,6 @@ Tujuannya:
 `src/validations/authValidation.js`:
 
 <img src="./assets/setup-auth/image-1.png" alt="setup-auth" width="600" height="450" />
-![alt text](image.png)
 
 ## 2️⃣ Buat Service Authentication (`authService.js`)
 
