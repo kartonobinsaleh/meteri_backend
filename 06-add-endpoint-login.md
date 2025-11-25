@@ -23,7 +23,7 @@ Buka `authValidation.js` dan tambahkan loginSchema seperti ini:
 
 Tambahkan method login di file `authService.js` seperti ini:
 
-<img src="./assets/endpoint-login/image-2.png" alt="add endpoint login" width="600" height="600" />
+<img src="./assets/endpoint-login/image-2.png" alt="add endpoint login" width="600" height="700" />
 
 Penjelasan singkat:
 
