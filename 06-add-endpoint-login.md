@@ -1,4 +1,4 @@
-# Step 5: Menambahkan Endpoint Login
+# Step 6: Menambahkan Endpoint Login
 
 Di step ini kita menambahkan endpoint login untuk melengkapi fitur register yang sudah ada.
 Tujuannya:
